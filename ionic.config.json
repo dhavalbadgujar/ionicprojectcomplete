@@ -1,0 +1,7 @@
+{
+  "name": "FirstDemo_WithoutService",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
